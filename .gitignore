@@ -33,6 +33,15 @@ migrate_working_dir/
 .pub/
 /build/
 
+# Flutter platform generated/local files
+android/.gradle/
+android/local.properties
+ios/Flutter/ephemeral/
+linux/flutter/ephemeral/
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+windows/flutter/generated_config.cmake
+
 # Symbolication related
 app.*.symbols
 
